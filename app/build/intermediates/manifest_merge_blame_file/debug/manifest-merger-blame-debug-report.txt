@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Wilson_Parra.comoescomoseria"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:5:5-14:32
+12        android:allowBackup="true"
+12-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\23243888ba5f289570ad68386ac1dd68\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:8:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:12:9-35
+21        android:theme="@style/Theme.ComoEsComoSeria" >
+21-->C:\ComoEsComoSeria-master\app\src\main\AndroidManifest.xml:13:9-53
+22        <provider
+22-->[androidx.emoji2:emoji2:1.0.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\11ba774d8255e04d18617ddaf3d71eee\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+23            android:name="androidx.startup.InitializationProvider"
+23-->[androidx.emoji2:emoji2:1.0.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\11ba774d8255e04d18617ddaf3d71eee\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+24            android:authorities="com.Wilson_Parra.comoescomoseria.androidx-startup"
+24-->[androidx.emoji2:emoji2:1.0.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\11ba774d8255e04d18617ddaf3d71eee\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+25            android:exported="false" >
+25-->[androidx.emoji2:emoji2:1.0.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\11ba774d8255e04d18617ddaf3d71eee\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+26            <meta-data
+26-->[androidx.emoji2:emoji2:1.0.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\11ba774d8255e04d18617ddaf3d71eee\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+27                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+27-->[androidx.emoji2:emoji2:1.0.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\11ba774d8255e04d18617ddaf3d71eee\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+28                android:value="androidx.startup" />
+28-->[androidx.emoji2:emoji2:1.0.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\11ba774d8255e04d18617ddaf3d71eee\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+29            <meta-data
+29-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\cae62511b288406bc5985af3feb8aeeb\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+30                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+30-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\cae62511b288406bc5985af3feb8aeeb\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+31                android:value="androidx.startup" />
+31-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\APRENDIZ\.gradle\caches\transforms-3\cae62511b288406bc5985af3feb8aeeb\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+32        </provider>
+33    </application>
+34
+35</manifest>

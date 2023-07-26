@@ -1,0 +1,6 @@
+com.Wilson_Parra.comoescomoseria.test.app-core-1.5.0-0 C:\Users\APRENDIZ\.gradle\caches\transforms-3\12087d3b9e9ed1646232328e7220cadc\transformed\core-1.5.0\res
+com.Wilson_Parra.comoescomoseria.test.app-annotation-experimental-1.1.0-1 C:\Users\APRENDIZ\.gradle\caches\transforms-3\9eafe4103de1c9ae8425348159ad083d\transformed\annotation-experimental-1.1.0\res
+com.Wilson_Parra.comoescomoseria.test.app-androidTest-2 C:\Users\APRENDIZ\ComoEsComoSeria-master\app\build\generated\res\resValues\androidTest\debug
+com.Wilson_Parra.comoescomoseria.test.app-mergeDebugAndroidTestResources-3 C:\Users\APRENDIZ\ComoEsComoSeria-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.Wilson_Parra.comoescomoseria.test.app-mergeDebugAndroidTestResources-4 C:\Users\APRENDIZ\ComoEsComoSeria-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.Wilson_Parra.comoescomoseria.test.app-merged_res-5 C:\Users\APRENDIZ\ComoEsComoSeria-master\app\build\intermediates\merged_res\debugAndroidTest
